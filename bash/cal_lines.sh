@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Usage:
+#    ./cal_lines.sh ./
+
 dir=$1
 if [ "x$dir" = "x" ]
 then
