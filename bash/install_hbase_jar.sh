@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Usage:
+#   ./install_hbase_jar.sh
+
 ROOT=`dirname $0`
 JAR_NAME="hbase"
 JAR_VERSION="0.94.16-SNAPSHOT"
